@@ -322,7 +322,7 @@ span{
   box-shadow: 0 0 10px var(--main-color);
   cursor: pointer;
   transition: 0.3s ease-in-out;
-  width: 400px;
+  width: 480px;
 }
 .timeline-content:hover{
   transform: scale(1.05);
@@ -612,7 +612,7 @@ span{
     padding: 2rem 3%;
   }
 }
-@media(max-width:895px){
+@media(max-width:845px){
   #menu-icon{
     display: block;
   }
