@@ -322,7 +322,6 @@ span{
   box-shadow: 0 0 10px var(--main-color);
   cursor: pointer;
   transition: 0.3s ease-in-out;
-  width: 300px;
 }
 .timeline-content:hover{
   transform: scale(1.05);
